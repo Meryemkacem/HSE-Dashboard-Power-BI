@@ -15,6 +15,8 @@ This project presents an interactive Power BI dashboard that analyzes Occupation
 		LTIR =
 		(FAT + LTI) / Total Hours Worked × 1,000,000
 <img width="506" height="82" alt="image" src="https://github.com/user-attachments/assets/9210e2f9-85fd-49b1-8830-777c84f77f73" />
+
+
 🔹 **TRIR (Total Recordable Injury Rate)**
 	TRIR =
 	(FAT + LTI + RWC + MTC) / Total Hours Worked × 1,000,000
@@ -48,6 +50,7 @@ The project uses three CSV files with randomly generated data:
 ## 📷 Final report
 ![Dashboard Overview](HSEDashboardReport.pdf)
 ![Screenshot](HSE_Dashboard.mp4)
+
 
 
 ## 🛠 Tools Used
