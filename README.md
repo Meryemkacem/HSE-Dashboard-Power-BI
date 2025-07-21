@@ -50,8 +50,8 @@ The project uses three CSV files with randomly generated data:
 ## 📷 Final report
 ![Dashboard Overview](HSEDashboardReport.pdf)
 ![Screenshot](HSE_Dashboard.mp4)
-
-
+![Alt text](https://github.com/Meryemkacem/HSE-Dashboard-Power-BI/blob/main/HSEDashboardReport-images-0.jpg)
+![Alt text](https://github.com/Meryemkacem/HSE-Dashboard-Power-BI/blob/main/HSEDashboardReport-images-1.jpg)
 
 ## 🛠 Tools Used
 - Microsoft Power BI
