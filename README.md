@@ -16,8 +16,9 @@ The project uses three CSV files with randomly generated data:
 - `WorkedHours.csv`
 
 ## 📷 Final report
-![Dashboard Overview](screenshots/dashboard_overview.png)
-![TRIR KPI](screenshots/TRIR_KPI.png)
+![Dashboard Overview](HSEDashboardReport.pdf)
+![Screenshot] (HSE_Dashboard.mp4)
+
 
 ## 🛠 Tools Used
 - Microsoft Power BI
