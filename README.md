@@ -17,7 +17,7 @@ The project uses three CSV files with randomly generated data:
 
 ## 📷 Final report
 ![Dashboard Overview](HSEDashboardReport.pdf)
-![Screenshot] (HSE_Dashboard.mp4)
+![Screenshot](HSE_Dashboard.mp4)
 
 
 ## 🛠 Tools Used
