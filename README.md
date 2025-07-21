@@ -15,7 +15,7 @@ The project uses three CSV files with randomly generated data:
 - `Incidents.csv`
 - `WorkedHours.csv`
 
-## 📷 Screenshots
+## 📷 Final report
 ![Dashboard Overview](screenshots/dashboard_overview.png)
 ![TRIR KPI](screenshots/TRIR_KPI.png)
 
